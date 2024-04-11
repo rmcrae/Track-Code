@@ -3,5 +3,4 @@ IPython>=7.8.0
 ipywidgets>=8.0
 pandas
 webdriverdownloader
-selenium
-
+seleniumhromedriver_installer
