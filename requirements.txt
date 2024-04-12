@@ -3,4 +3,4 @@ IPython>=7.8.0
 ipywidgets>=8.0
 pandas
 webdriverdownloader
-selenium==3.141.0
+selenium
